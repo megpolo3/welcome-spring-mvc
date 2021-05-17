@@ -9,6 +9,7 @@
 <body>
 
 		Hey Spring MVC, You Have done a good job!
+		Result is : <%= request.getAttribute("result")%>
 
 </body>
 </html>
